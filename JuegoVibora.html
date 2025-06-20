@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Snake</title>
+</head>
+
+<body>
+    <h1>Snake-Play</h1>
+
+    <div class="game-container">
+        <div id="game-board"></div>
+        <div class="game-over">
+            <h2>¡Game Over!</h2>
+            <p id="final-score">Puntuación: 0</p>
+            <button id="restart-btn">Jugar de nuevo</button>
+        </div>
+    </div>
+
+    <div class="score-display">Puntuación: <span id="score">0</span></div>
+
+    <button id="start-btn">Iniciar</button>
+
+    <div class="records-container">
+        <div class="records-title">🏆 Top 5 Récords</div>
+        <ul id="records-list">
+            <li>No hay récords aún</li>
+        </ul>
+    </div>
+
+    <!-- Elementos de audio -->
+    <audio id="bg-music" loop preload="auto">
+        <source src="https://assets.mixkit.co/music/preview/mixkit-game-show-suspense-waiting-668.mp3"
+            type="audio/mpeg">
+    </audio>
+    <audio id="eat-sound" preload="auto">
+        <source src="https://assets.mixkit.co/sfx/preview/mixkit-arcade-game-jump-coin-216.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="gameover-sound" preload="auto">
+        <source src="https://assets.mixkit.co/sfx/preview/mixkit-retro-arcade-lose-2027.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="highscore-sound" preload="auto">
+        <source src="https://assets.mixkit.co/sfx/preview/mixkit-unlock-game-notification-253.mp3" type="audio/mpeg">
+    </audio>
+
+    <button id="audio-btn">🔊</button>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
