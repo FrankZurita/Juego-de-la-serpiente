@@ -55,3 +55,7 @@ Si te gusta este proyecto:
 * 💬 Comenta ideas o mejoras que se te ocurran en el README.
 
 * 🍴 Comparte tu versión del juego si la modificas.
+
+
+
+<div align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> </div>
