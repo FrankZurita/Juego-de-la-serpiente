@@ -3,9 +3,9 @@
 Un juego clásico de la **serpiente** hecho en **HTML, CSS y JavaScript**.  
 Controla la serpiente con las **flechas del teclado** y trata de comer todas las bolitas 🍎 para sumar puntos.  
 
----
 
-## 🎮 Cómo jugar
+
+## 🎮 Cómo jugar 🎮 
 
 - Usa las **flechas del teclado** para mover la serpiente:  
   - ⬆️ Arriba  
@@ -15,9 +15,8 @@ Controla la serpiente con las **flechas del teclado** y trata de comer todas las
 - Cada vez que la serpiente come una bolita, tu **puntuación aumenta**.  
 - Evita chocar con las paredes o contigo mismo.  
 
----
 
-## 🧩 Cómo funciona el código
+## 🧩 Cómo funciona el código 🧩
 
 El juego está construido en **HTML, CSS y JavaScript**, usando conceptos básicos como:
 
