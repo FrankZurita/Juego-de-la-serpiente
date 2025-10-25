@@ -45,13 +45,13 @@ Este proyecto es ideal para **aprender fundamentos de programación en JavaScrip
 ```bash
 git clone https://github.com/FranciscoZuritaR/snake-game.git
 
-
-⭐ Interacción
+---
+⭐ Interacción ⭐
 
 Si te gusta este proyecto:
 
-Dale estrella ⭐ al repositorio.
+* Dale estrella ⭐ al repositorio.
 
-💬 Comenta ideas o mejoras que se te ocurran en el README.
+* 💬 Comenta ideas o mejoras que se te ocurran en el README.
 
-🍴 Comparte tu versión del juego si la modificas.
+* 🍴 Comparte tu versión del juego si la modificas.
